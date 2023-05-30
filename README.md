@@ -1,5 +1,6 @@
 # Praveer_Databases_and_ORM_Graded_Lab_4_DBMS
 Praveer_Databases_and_ORM_Graded_Lab_4_DBMS
+
 Queries →
 Write queries for the following:
 1) You are required to create tables for supplier,customer,category,product,supplier_pricing,order,rating to store the data for the
